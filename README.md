@@ -13,8 +13,4 @@ CSS
 Bootstrap CSS Framework
 
 ## Screenshots
- <img
-                    src="img/portfolio.jpg"
-                    alt="Portfolio image"
-                    class="img-fluid thumbnail"
-                  />
+![alt text](https://github.com/[MrMatcke]/[2-Responsive-Portfolio]/blob/[branch]/portfolio.jpg?raw=true)
