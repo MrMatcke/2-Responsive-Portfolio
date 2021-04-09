@@ -13,4 +13,5 @@ CSS
 Bootstrap CSS Framework
 
 ## Screenshots
-![alt text](https://github.com/[MrMatcke]/[2-Responsive-Portfolio]/blob/[branch]/portfolio.jpg?raw=true)
+![Screenshot](portfolio.jpg)
+
